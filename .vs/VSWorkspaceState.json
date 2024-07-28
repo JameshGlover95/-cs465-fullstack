@@ -3,12 +3,13 @@
     "",
     "\\app_server",
     "\\app_server\\controllers",
+    "\\app_server\\models",
     "\\app_server\\routes",
     "\\app_server\\views",
     "\\app_server\\views\\layouts",
-    "\\app_server\\views\\partials",
+    "\\data",
     "\\public"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\data\\trips.json",
   "PreviewInSolutionExplorer": false
 }
