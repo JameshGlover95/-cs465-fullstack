@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app_server",
-    "\\app_server\\controllers",
-    "\\app_server\\models",
-    "\\app_server\\routes",
-    "\\app_server\\views",
-    "\\app_server\\views\\layouts",
-    "\\data",
-    "\\public"
+    "\\app_admin\\src",
+    "\\app_admin\\src\\app",
+    "\\app_admin\\src\\app\\add-trip",
+    "\\app_admin\\src\\app\\models",
+    "\\app_admin\\src\\app\\trip-card",
+    "\\app_admin\\src\\app\\trip-listing",
+    "\\app_api",
+    "\\app_api\\controllers",
+    "\\app_api\\routes"
   ],
-  "SelectedNode": "\\data\\trips.json",
+  "SelectedNode": "\\app_api\\controllers\\trips.js",
   "PreviewInSolutionExplorer": false
 }
